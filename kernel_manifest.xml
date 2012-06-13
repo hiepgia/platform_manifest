@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="gh" revision="android-samsung-3.0-ics" />
+  <project path="kernel/samsung/aries" name="hiepgia/subZero" remote="gh" revision="1.3" />
   <project path="kernel/samsung/p1c" name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" remote="gh" revision="ics" />
   <project path="kernel/samsung/p4" name="pershoot/android_kernel_samsung_p4" remote="gh" revision="ics" />
   <project path="kernel/lge/star" name="AOKP/lge-kernel-star" remote="gh" revision="android-tegra-2.6.32-ics" />
